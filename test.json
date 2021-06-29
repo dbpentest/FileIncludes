@@ -1,7 +1,7 @@
 {
    "swagger":"2.0",
    "info":{
-      "description":" You only need to [Click-me](javascript:onerror=alert;throw document.domain;)",
+      "description":" You only need to [Click-me](javascript:alert)",
       "version":"1.0.5",
       "title":"Swagger Petstore",
       "termsOfService":"http://swagger.io/terms/",
